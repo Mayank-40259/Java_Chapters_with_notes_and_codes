@@ -1,4 +1,7 @@
 public class Println{
+
+    //Lecture 1 # Println, print, and printf methods revice.
+
     public static void main(String args[]){
 
         //difference between println(),printf() and print().
