@@ -1,4 +1,7 @@
 class Integral {
+
+    // Lecture 1: Integral Data Types in Java Revice.
+
     public static void main(String[] args){
          //integral number
          //byte
