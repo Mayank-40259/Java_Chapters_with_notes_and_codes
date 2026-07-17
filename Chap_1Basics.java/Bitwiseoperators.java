@@ -1,4 +1,6 @@
 public class Bitwiseoperators {
+
+    // Lecture 3). : - Bitwise operators in Java with examples Revice.
     public static void main(String args[]){
         // Computers data saved in binay language 0 and 1 --> 0 1
         int a = -5;
