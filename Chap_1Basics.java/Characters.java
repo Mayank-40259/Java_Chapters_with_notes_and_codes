@@ -1,4 +1,7 @@
 public class Characters {
+
+    //Lecture 1). : - Characters in Java Revice. 
+
     public static void main(String[] args){
 
         //Characters datatype
