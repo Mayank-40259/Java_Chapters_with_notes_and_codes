@@ -1,4 +1,7 @@
 public class Decimal {
+
+    //Lecture 1: Decimal Data Types in Java Revice. 
+
     public static void main(String[] args){
 
         // float mySalary = 10000.12345f;
