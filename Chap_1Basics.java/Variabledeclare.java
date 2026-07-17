@@ -1,5 +1,7 @@
 public class Variabledeclare{
 
+    // Revice Lecture 1 # Conventions for variable declaration.
+
     public static void main(String[] args){
         //case sensitive
         //can be letters,digits,dollar,signs and underscores
