@@ -1,5 +1,7 @@
 public class Test2{
 
+    // Lecture 13). StringBuilder example to check mutability and Thread Safety in Java with examples.
+
        public static void main(String[] args) throws InterruptedException {
 
            StringBuilder sb1 = new StringBuilder();
