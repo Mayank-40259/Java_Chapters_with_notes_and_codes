@@ -1,5 +1,8 @@
 public class RelationalOperators {
 
+    // Relational operators compare two values and return a boolean result.
+    // Lecture 2 : Relational Operators, Logical Operators, Conditional Statements, Switch Case, Ternary Operator.
+
     public static void main(String[] args){
      //relational operators : Relational operators compare two values and return a boolean result.
       System.out.println("Relational Operators");
