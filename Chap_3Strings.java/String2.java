@@ -1,4 +1,7 @@
 public class String2 {
+
+    //Lecture 10 : String Methods in Java with examples. 
+
     public static void main(String args[]){
 
         //jin methods ko hm class se access karte hai ve static methods.
