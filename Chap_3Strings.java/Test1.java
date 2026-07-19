@@ -1,4 +1,7 @@
 public class Test1{
+
+    //Lecture 12). StringBuffer example to check mutability and Thread Safety in Java with examples.
+
        public static void main(String[] args) throws InterruptedException {
 
            //3).StringBuffer: Thread safety and Mutability.
