@@ -1,4 +1,10 @@
 public class Loop {
+
+    
+    //Lecture 7 : Loops in Java with examples. 
+    // Loops are used to execute a block of code repeatedly until a certain condition is met.
+
+
     public static void main(String [] args){
         //1).while loop:
         System.out.println("WHILE LOOP");
