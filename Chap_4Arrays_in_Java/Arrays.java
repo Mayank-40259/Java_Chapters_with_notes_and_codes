@@ -1,4 +1,9 @@
 public class Arrays {
+
+
+  // Lecture 14). :- Arrays in Java with For-each loop and some important questions.
+
+
 	//Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
    //Arrays : it is collection of same type of element and similar kind of data is called Arrays.
   //Syntax : datatypename[] variableName;-->int[] integerArray; //int a = 1; 1 is stored in container a as variable name.int as datatype.
