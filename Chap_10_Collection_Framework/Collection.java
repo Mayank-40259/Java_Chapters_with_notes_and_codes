@@ -44,6 +44,17 @@ public class Collection{
     //       sorting, and manipulation.
     // 
 
+    // #Key Interfaces in Collection Framework
+    //  --> The Collection Framework is primarily built around a set of "interfaces".Important ones are:-
+    // Collection: The root interface for all the other collection types.
+    // 
+    // List: An ordered collection that can contain duplicate elements(e.g. ArrayList,LinkedList).
+    // Set: A collection that cannot contain duplicate  elements (e.g. HashSet TreeSet).
+    // Queue: A collection designed for holding elements prior to processing (e.g. PriorityQueue,LinkedList when used as a queue).
+    // Deque: A double-ended  queue that allows insertion and  removal from both ends (e.g. ArrayDeque).
+    // Map: An interface that represents a collection of key-value pairs (e.g. Hashmap,TreeMap).
+    // 
+    // 
 
 
 
