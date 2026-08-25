@@ -51,6 +51,7 @@ public class Collection{
     public static void main(String[] args) {
         System.out.println("Hello World!...");
         //Collection Introduction Lecture.01.
-        
+        // Introduction and defination of COllection Framework
+
     }
 }
