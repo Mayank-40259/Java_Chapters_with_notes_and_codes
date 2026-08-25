@@ -50,11 +50,34 @@ public class Collection{
     // 
     // List: An ordered collection that can contain duplicate elements(e.g. ArrayList,LinkedList).
     // Set: A collection that cannot contain duplicate  elements (e.g. HashSet TreeSet).
-    // Queue: A collection designed for holding elements prior to processing (e.g. PriorityQueue,LinkedList when used as a queue).
-    // Deque: A double-ended  queue that allows insertion and  removal from both ends (e.g. ArrayDeque).
+    // Queue: A collection designed for holding elements prior to processing (e.g. PriorityQueue,LinkedList when used as a queue). first in first out --> FIFO use hota hai .
+    // Deque: A double-ended queue that allows insertion and  removal from both ends (e.g. ArrayDeque).
     // Map: An interface that represents a collection of key-value pairs (e.g. Hashmap,TreeMap).
     // 
     // 
+    // --> bahut saari classes hongi isme and hierrarchy hogi isme collection ki.
+    // ## Collection Hierarchy :- The Collection Framework is organized into a hierrarchy 
+    //  where the core interfaces are at the top, and the specific implementations extend these interfaces.
+    // 
+    // 
+
+
+    //                             Iterable
+    //                                |
+    //                            Collection
+    //                                |
+    //          -------------------------------------------------------
+    //          |                     |                               |
+    //      ArrayList               HashSet                      LinkedList          ---> ArrayDeque
+    //      LinkedList            LinkedHashSet                 PriorityQueue       /
+    //        Vector                TreeSet                        Deque -------------->LinkedList
+    //         Stack                EnumSet                    BlockingQueue       \
+    //   CopyOnWriteArrayList     ConncurrentSkipListSet       ArrayBlockingQueue    ---> ConncurrentLinked Deque
+    //                               SortedSet                LinkedBlockingQueue
+    //                           CopyOnWriteArraySet         PriorityBlockingQueue
+    //                                                         SynchronousQueue
+    //                                                           DelayQueue
+    //                                                       ConncurrentLinkedQueue                        
 
 
 
@@ -63,6 +86,8 @@ public class Collection{
         System.out.println("Hello World!...");
         //Collection Introduction Lecture.01.
         // Introduction and defination of COllection Framework
+        // interface types and data structure library.
+        // Collection Hierrarchyin Collection Framework.
 
     }
 }
