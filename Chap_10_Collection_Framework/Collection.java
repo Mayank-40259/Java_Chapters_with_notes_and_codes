@@ -71,14 +71,31 @@ public class Collection{
     //      ArrayList               HashSet                      LinkedList          ---> ArrayDeque
     //      LinkedList            LinkedHashSet                 PriorityQueue       /
     //        Vector                TreeSet                        Deque -------------->LinkedList
-    //         Stack                EnumSet                    BlockingQueue       \
+    //         Stack                EnumSet                    BlockingQueue        \
     //   CopyOnWriteArrayList     ConncurrentSkipListSet       ArrayBlockingQueue    ---> ConncurrentLinked Deque
     //                               SortedSet                LinkedBlockingQueue
     //                           CopyOnWriteArraySet         PriorityBlockingQueue
     //                                                         SynchronousQueue
     //                                                           DelayQueue
     //                                                       ConncurrentLinkedQueue                        
+    // #Collection Interface :-
+    // #Overview :- 
+    // 1).  The Collection interface is the root interface of the Java Collection Framework.
+    // 2).  it is the most basic interface that defines a group of objects known as elements.
+    // 3).  The Collection interface is a part of the java.util package, and
+    // 4).  It is a parent interface that is extended by other collection interfaces like. List,Set, and Queue.
+    // 
+    // 
 
+
+    // --> 1).List :- the List interface in Java is a part of the java.util package 
+    //         and is a sub-interface of the Collection Interface. It provides a way to 
+    //        "store an ordered collection of elements"(known as a sequence). Lists allow for 
+    //        precise control over where elements inserted and "can contain duplicate elements." 
+    // 
+    // -->
+    // -->
+    // -->
 
 
 
